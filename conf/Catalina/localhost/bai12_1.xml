@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:\Users\AN CUTE\Desktop\Practice (2)\Practice\bai12_1\src\main\webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/AN CUTE/Desktop/Practice (2)/Practice/bai12_1/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/AN CUTE/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+    <PostResources base="C:/Users/AN CUTE/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar"/>
+    <PostResources base="C:/Users/AN CUTE/.m2/repository/jakarta/el/jakarta.el-api/6.0.0-M1/jakarta.el-api-6.0.0-M1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-api-6.0.0-M1.jar"/>
+    <PostResources base="C:/Users/AN CUTE/.m2/repository/org/glassfish/jakarta.el/3.0.4/jakarta.el-3.0.4.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/jakarta.el-3.0.4.jar"/>
+    <PostResources base="C:/Users/AN CUTE/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.0.33.jar"/>
+    <PostResources base="C:/Users/AN CUTE/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/protobuf-java-3.21.9.jar"/>
+  </Resources>
+</Context>
